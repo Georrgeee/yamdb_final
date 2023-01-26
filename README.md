@@ -1,6 +1,9 @@
 # yamdb_final
 yamdb_final
 
+# Server 
+http://158.160.58.152/
+
 ### About:
 yamdb_final is final project in yand infrra Sprint
 
